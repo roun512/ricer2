@@ -1,4 +1,9 @@
-en:
-  ricer:
-    plugins:
-      wechall:
+en: 
+  ricer: 
+    plugins: 
+      wechall: 
+        wc: 
+          description: "Returns user data from wechall"
+        wcc: 
+          description: "Returns user challenges from wechall"
+
